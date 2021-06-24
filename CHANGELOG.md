@@ -10,4 +10,4 @@
 Initial release
 
 
-[1.1.0]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/1.0...1.1
+[1.1.0]: https://github.com/dvdoug/PHPCoordAsia/compare/1.0.0...1.1.0
