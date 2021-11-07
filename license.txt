@@ -42,7 +42,7 @@ Please see https://epsg.org/terms-of-use.html for full terms of use if you wish 
 PHPCoord.
 
 
-NTv2 grid files from Instituto Brasileiro de Geografia e Estatistica
+Grid files from Instituto Brasileiro de Geografia e Estatistica
 Creative Commons Attribution-ShareAlike 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
@@ -158,3 +158,38 @@ Section 8 – Interpretation.
 Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "Licensor." The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark "Creative Commons" or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+Grid files from Instituto Geográfico Nacional de la República Argentina
+
+Términos y Condiciones de uso de la información descargada del sitio web del Instituto Geográfico Nacional
+
+I. Introducción
+Los presentes Términos y Condiciones son aplicables a toda persona física o jurídica, que descargue, utilice, reutilice y/o redistribuya información descargada del sitio web del Instituto Geográfico Nacional de la República Argentina.
+
+II. Responsabilidad. Garantías. Seguridad
+La utilización de la información descargada del sitio web del Instituto Geográfico Nacional se realizará por parte de los Usuarios bajo su propia cuenta y riesgo, correspondiéndoles en exclusiva a ellos responder frente a terceros por daños que pudieran derivarse de ella. El Instituto Geográfico Nacional no será responsable del uso que de su información hagan los Usuarios, ni tampoco de los daños sufridos o pérdidas económicas que, de forma directa o indirecta, ello pudiere producir.
+El Usuario deslinda al Instituto Geográfico Nacional de responsabilidad sobre la información de la que éstos hagan uso, no pudiendo en consecuencia reclamar por errores u omisiones en esta información y materiales. Debido a que ninguna transmisión por Internet puede garantizar su íntegra seguridad, el Instituto Geográfico Nacional no puede garantizar que la información transmitida utilizando su servicio sea completamente segura, con lo cual el Usuario asume este riesgo que declara conocer y aceptar.
+El Instituto Geográfico Nacional no está obligado a garantizar ininterrumpidamente la continuidad en la puesta a disposición de la información, ni en contenido ni en forma, ni asume responsabilidades por cualquier error u omisión contenido en ellos.
+
+III. Información sobre errores o problemas
+Cualquier inquietud, consulta, problema o sugerencia que los Usuarios tengan en relación a la información descargada podrán ser reportados a la casilla de correo contacto@ign.gob.ar
+
+
+Política de licenciamiento de datos
+
+I. Usos permitidos de la información descargada del sitio web
+Los presentes términos y condiciones permiten la utilización de la información descargada de la página web del Instituto Geográfico Nacional de acuerdo a las siguientes condiciones:
+
+ 1. Debe citarse la fuente de los documentos objeto de la reutilización: “FUENTE: Instituto Geográfico Nacional de la República Argentina”.
+ 2. Los datos descargados no deben alterarse.
+ 3. No se podrá indicar, insinuar o sugerir que el Instituto Geográfico Nacional, participa, patrocina o apoya la utilización o reutilización de la misma.
+ 4. Deben conservarse, y por tanto no alterarse ni suprimirse los metadatos sobre la fecha de actualización y las condiciones de reutilización aplicables incluidos, en su caso, en el documento puesto a disposición para su utilización o reutilización.
+ 5. En el caso de que se generen productos derivados, deberá además mencionarse la fecha de los datos originales del IGN.
+ 6. Los datos descargados deben compartirse de manera libre y gratuita.
+ 7. Se permite su uso comercial únicamente en el caso de obras derivadas en que la información sea utilizada como insumo para generar un nuevo producto.
+
+La reutilización autorizada puede incluir la copia, difusión, modificación, adaptación, extracción, reordenamiento y combinación de la información contenida en el sitio, siempre que su utilización no desnaturalice el sentido de la información.
+
+II. Controversias judiciales. Jurisdicción aplicable
+ 1. Toda controversia que se suscite en relación al incumplimiento de los Términos y Condiciones de Utilización de información descargada del sitito web del Instituto Geográfico Nacional, y con la Política de licenciamiento de datos expuesta precedentemente, serán competentes para entender los Tribunales Federales con asiento en la Ciudad Autónoma de Buenos Aires.
+ 2. A tales efectos, el Instituto Geográfico Nacional constituye domicilio en Avenida Cabildo 381, Ciudad Autónoma de Buenos Aires.
