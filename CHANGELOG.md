@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+## [1.6.0] - 2026-10-10
+### Added
+- Grid files for French Guiana and Colombia
+
 ## [1.5.1] - 2026-09-14
 ### Changed
 - Updates to extents for Argentina and Brazil
@@ -30,7 +36,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/v1.5.1...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/dvdoug/PHPCoordSouthAmerica/compare/v1.3.0...v1.4.0
